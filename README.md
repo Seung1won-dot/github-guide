@@ -1,12 +1,18 @@
-# 📚 Git & GitHub 완벽 가이드
+# Git & GitHub 완벽 가이드
 
-> 이 저장소는 Git과 GitHub를 효과적으로 사용하는 모든 것을 담고 있습니다.
+Git 기초 개념부터 브랜치, 원격 저장소, 협업 워크플로우, CLI/SSH 설정까지 정리한 한국어 학습 문서 모음입니다.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+- **구성**: 12개 Markdown 문서 (시작하기, 핵심 기능, 협업 & 실전, 보충 자료)
+
+## 소개
+
+이 저장소는 Git과 GitHub를 효과적으로 사용하는 모든 것을 담고 있습니다. 아래 목차 순서대로 읽으면 개념에서 실전까지 자연스럽게 이어집니다.
+
 ---
 
-## 📖 목차
+## 목차
 
 ### 시작하기
 | 문서 | 설명 |
@@ -38,7 +44,9 @@
 
 ---
 
-## 🚀 빠른 시작
+## 빠른 시작
+
+자세한 설명은 [03_기초_명령어.md](./03_기초_명령어.md)와 [07_협업_워크플로우.md](./07_협업_워크플로우.md)를 참고하세요.
 
 ```bash
 # 1. 저장소 복제
@@ -57,7 +65,9 @@ git push -u origin feature/your-feature
 
 ---
 
-## 📝 커밋 타입 가이드
+## 커밋 타입 가이드
+
+전체 규칙과 예시는 [06_커밋_메시지.md](./06_커밋_메시지.md)에 정리되어 있습니다.
 
 | Type | 용도 | 예시 |
 |------|------|------|
@@ -70,7 +80,7 @@ git push -u origin feature/your-feature
 
 ---
 
-## 🔗 유용한 링크
+## 유용한 링크
 
 - [Pro Git Book](https://git-scm.com/book/ko/v2) - 무료 온라인 북
 - [GitHub Skills](https://skills.github.com/) - 공식 튜토리얼
@@ -78,10 +88,10 @@ git push -u origin feature/your-feature
 
 ---
 
-## 📄 라이선스
+## 라이선스
 
 MIT License - 자유롭게 사용, 수정, 배포 가능
 
 ---
 
-*⭐ 이 저장소가 도움이 되셨다면 Star를 눌러주세요!*
+*이 저장소가 도움이 되셨다면 Star를 눌러주세요!*
