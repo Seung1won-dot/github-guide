@@ -162,4 +162,4 @@ git clone https://github.com/username/repository.git my-folder
 
 ---
 
-[← 이전: README](../README.md) | [다음: GitHub 기초 →](./02_GITHUB_기초.md)
+[← 이전: 목차(README)](./README.md) | [다음: GitHub 기초 →](./02_GITHUB_기초.md)

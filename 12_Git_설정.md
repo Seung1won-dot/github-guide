@@ -394,4 +394,4 @@ git config --global --list --file gitconfig_backup.txt | \
 
 ---
 
-[← 이전: SSH 설정](./11_SSH_설정.md) | [↑ 처음으로 →](../README.md)
+[← 이전: SSH 설정](./11_SSH_설정.md) | [↑ 처음으로: 목차(README)](./README.md)
