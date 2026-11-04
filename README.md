@@ -103,3 +103,7 @@ github-guide/
 - [Pro Git (한국어)](https://git-scm.com/book/ko/v2) — 무료 온라인 책
 - [GitHub Skills](https://skills.github.com/) — GitHub 공식 실습 과정
 - [Oh My Git!](https://ohmygit.org/) — 게임으로 배우는 Git
+
+## 라이선스
+
+[MIT](LICENSE)
